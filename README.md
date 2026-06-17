@@ -6,3 +6,6 @@ Presentation : 1                                                                
 Presentation : 2                                                                11-06-2026
                                                                                 Saturday
       My second presentation is on the topic Linux Boot Flow.I have covered complete steps or procedure takes place in the Embedded Boot Flow and PC Boot Flow.
+
+Presentation : 3                                                                17-06-2026
+      My third presentation is on the topic Memory Management. I have covered the CPU working with RAM,Hard disk and registers.And also covered the Address translation.
