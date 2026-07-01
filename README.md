@@ -18,4 +18,7 @@ Presentation : 4                                                                
 Presentation : 5                                                                24-06-2026
                                                                                  Monday
       My fifth presentation is on the topic IPC. I have covered Types in ipc mechanisms and Synchronization technique.
-      
+
+ Presentation : 6                                                                01-07-2026
+                                                                                 Monday
+      My sixth presentation is on the topic Android Bootflows. I have covered stages of the androoid bootflow.     
